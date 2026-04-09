@@ -1,74 +1,58 @@
-# Hi, I'm Sarvesh 
+# Hi, I'm Sarvesh
 
-I'm a **2nd-year Electronics & Communication Engineering (ECE) student at JNU Delhi** with a strong passion for **software development and problem solving**. I enjoy building scalable applications, exploring data-driven systems, and continuously learning new technologies.
-
----
-
-##  About Me
--  Passionate about **software engineering** alongside my ECE studies  
--  Actively practicing **Data Structures & Algorithms (DSA)**  
--  **Beginner in Competitive Programming (CP)**  
--  Currently exploring **Machine Learning** and backend system design  
--  Curious about how systems work under the hood  
+B.Tech (ECE) student at JNU, Delhi with a strong interest in software engineering, scalable backend systems, and problem solving. I focus on building real-world applications and continuously improving my understanding of system design and data-driven technologies.
 
 ---
 
-##  Skills & Technologies
+## About Me
 
-###  Programming Languages
-- Python  
-- Java  
-- C++  
-- JavaScript  
+* Interested in backend development and system architecture
+* Practicing Data Structures and Algorithms (DSA)
+* Beginner in Competitive Programming
+* Exploring Machine Learning and Deep Learning
+* Curious about how systems scale and operate internally
+---
 
-###  Web & Backend Development
-- MERN Stack (MongoDB, Express.js, React, Node.js)  
-- Flask  
-- Next.js  
-- EJS  
+## Currently Learning
 
-###  Frontend
-- HTML  
-- CSS  
-- Tailwind CSS  
-- React  
-
-###  Databases & Caching
-- DBMS Concepts  
-- Redis
-- MySQL
-
-###  Core Concepts
-- Data Structures & Algorithms (DSA)  
-- Object-Oriented Programming (OOPs)  
-
-###  Tools & DevOps
-- Git  
-- GitHub  
-- Docker  
-- BullMQ  
-
-###  Data & ML
-- Data Visualization  
-- Learning Machine Learning  
+* Data Structures and Algorithms (DSA)
+* Full Stack Development
+* System Design fundamentals
+* Machine Learning and Deep Learning
 
 ---
 
-##  What I'm Working On
-- Strengthening **DSA & problem-solving skills**  
-- Building **full-stack applications**  
-- Learning **system design basics**  
-- Exploring **Machine Learning fundamentals**  
+## Tech Stack
+
+### Programming Languages
+
+Python | Java | C++ | JavaScript
+
+### Web and Backend
+
+Node.js | Express.js | Flask | FastAPI | Next.js | EJS
+
+### Frontend
+
+React | HTML | CSS | Tailwind CSS
+
+### Databases and Caching
+
+MongoDB | MySQL | Redis
+
+### Tools and DevOps
+
+Git | GitHub | Docker | BullMQ
+
+### Core Concepts
+
+DSA | OOP | DBMS | System Design (Basics)
 
 ---
 
-##  Connect With Me
-- **Email:** shahanesarvesh45@gmail.com  
-- **LinkedIn:** [Sarvesh Shahane](https://www.linkedin.com/in/sarvesh-shahane-7a4092332)
+## Contact
+
+Email: [shahanesarvesh45@gmail.com](mailto:shahanesarvesh45@gmail.com)
+LinkedIn: https://www.linkedin.com/in/sarvesh-shahane-7a4092332
 
 ---
-
----
-
- *Always learning, always building.*  
-Thanks for stopping by!
