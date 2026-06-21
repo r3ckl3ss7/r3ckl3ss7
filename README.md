@@ -49,10 +49,16 @@ Git | GitHub | Docker | BullMQ
 DSA | OOP | DBMS | System Design (Basics)
 
 ---
+## 📊 GitHub Analytics
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=r3ckl3ss7&theme=github-compact&hide_border=true&bg_color=0D1117&color=00B4D8&line=FFD700&point=FFFFFF&area=true&border_radius=10" width="95%" alt="Contribution Graph"/>
+
+
 
 ## Contact
 
-Email: [shahanesarvesh45@gmail.com](mailto:shahanesarvesh45@gmail.com)
-LinkedIn: https://www.linkedin.com/in/sarvesh-shahane-7a4092332
+Email: [Sarvesh](mailto:shahanesarvesh45@gmail.com)
+LinkedIn: [Sarvesh](https://www.linkedin.com/in/sarvesh-shahane-7a4092332)
 
 ---
