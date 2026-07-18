@@ -52,7 +52,7 @@ DSA | OOP | DBMS | System Design (Basics)
 ## 📊 GitHub Analytics
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=r3ckl3ss7&theme=github-compact&hide_border=true&bg_color=0D1117&color=00B4D8&line=FFD700&point=FFFFFF&area=true&border_radius=10" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarveshShahane&theme=github-compact&hide_border=true&bg_color=0D1117&color=00B4D8&line=FFD700&point=FFFFFF&area=true&border_radius=10" width="95%" alt="Contribution Graph"/>
 
 
 
